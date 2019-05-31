@@ -1,4 +1,4 @@
-/*Programma per compito*/
+/*Programma per compito, Qukaj Adriano*/
 #include <iostream>
 using namespace std;
 int main()
